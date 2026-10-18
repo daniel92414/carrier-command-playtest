@@ -7,12 +7,12 @@ Manage carrier deck operations: launch, recover, refuel, rearm and repair your a
 ## 試玩 / Play
 
 - **網頁版 / Browser:** https://carrier-command-deck-ops.aptdill8.chatgpt.site/
-- **Android APK:** 尚未發布至此下載區 / Not yet available in this repository.
+- **Android APK:** [0.9.1.J 下載 / Download](https://github.com/daniel92414/carrier-command-playtest/releases/download/v0.9.1.J/Deck_Command_0_9_1_J.apk)
 - **版本下載頁 / Releases:** https://github.com/daniel92414/carrier-command-playtest/releases
 
-目前遊戲版本為 **0.9.1.I**。建立版本標籤或顯示版本名稱，不代表已有 APK 附件；請以 Releases 中實際列出的 `.apk` 為準。
+目前可下載版本為 **0.9.1.J**。詳見 [Release](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.1.J)。
 
-Current game version: **0.9.1.I**. Download an APK only when an actual `.apk` asset is listed under Releases.
+Current downloadable version: **0.9.1.J**. See the release for details.
 
 ## Android 安裝 / Installation
 
@@ -22,11 +22,9 @@ Current game version: **0.9.1.I**. Download an APK only when an actual `.apk` as
 
 網頁版可供 iPhone／iPad 試玩；APK 僅適用 Android。 / iPhone and iPad users can use the browser version; APK files are Android-only.
 
-## 最新更新 / Latest changes — 0.9.1.I
+## 最新更新 / Latest changes — 0.9.1.J
 
-- 玩家卡片顯示名稱、等級、頭像、稱號、勳章及準備狀態。 / Expanded player cards and readiness indicators.
-- 修正對戰編組同步、設定顯示與手機偵查資訊版面。 / Improved lobby configuration and mobile battle UI.
-- 暫停採雙方同意，支援暫停聊天、恢復要求及同房再戰。 / Mutual pause consent, pause chat and same-room rematches.
+[完整更新說明 / Release notes](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.1.J)
 
 積分與賽季尚未開放。 / Ranked matches and seasons are not available yet.
 
