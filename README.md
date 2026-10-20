@@ -6,7 +6,7 @@ Manage carrier deck operations: launch, recover, refuel, rearm and repair your a
 
 ## 試玩 / Play
 
-- **網頁版 / Browser:** https://carrier-command-deck-ops.aptdill8.chatgpt.site/
+- **網頁版 / Browser — 0.9.1.K:** https://carrier-command-deck-ops.aptdill8.chatgpt.site/
 - **Android APK:** [0.9.1.J 下載 / Download](https://github.com/daniel92414/carrier-command-playtest/releases/download/v0.9.1.J/Deck_Command_0_9_1_J.apk)
 - **版本下載頁 / Releases:** https://github.com/daniel92414/carrier-command-playtest/releases
 
@@ -22,7 +22,16 @@ Current downloadable version: **0.9.1.J**. See the release for details.
 
 網頁版可供 iPhone／iPad 試玩；APK 僅適用 Android。 / iPhone and iPad users can use the browser version; APK files are Android-only.
 
-## 最新更新 / Latest changes — 0.9.1.J
+## 最新更新 / Latest changes — 0.9.1.K (Web only)
+
+網頁試玩 / Play: https://carrier-command-deck-ops.aptdill8.chatgpt.site/
+
+- 修正商店通知與關卡編組捲動位置。 / Fixed shop notice expiry and deployment scroll position.
+- 雙跑道雙向短路徑與第四彈射器通路修正。 / Bidirectional twin-runway taxi routes and clear access to Catapult 4.
+- 修正副油箱／回收控制顯示；AC-130 使用一致圖示及已購買塗裝。 / Contextual tank/recovery controls and matching AC-130 artwork with owned paint.
+- 本次僅更新網頁，APK 保留 J 版。 / Browser-only update; Android APK remains J.
+
+### Android — 0.9.1.J
 
 [完整更新說明 / Release notes](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.1.J)
 
