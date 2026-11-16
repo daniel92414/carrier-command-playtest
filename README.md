@@ -7,12 +7,12 @@ Manage carrier deck operations: launch, recover, refuel, rearm and repair your a
 ## 試玩 / Play
 
 - **網頁版 / Browser — 0.9.1.M:** https://carrier-command-deck-ops.aptdill8.chatgpt.site/
-- **Android APK:** [0.9.2.A 下載 / Download](https://github.com/daniel92414/carrier-command-playtest/releases/download/v0.9.2.A/Deck_Command_0_9_2_A.apk)
+- **Android APK:** [0.9.2.A.1 下載 / Download](https://github.com/daniel92414/carrier-command-playtest/releases/download/v0.9.2.A.1/Deck_Command_0_9_2_A_1.apk)
 - **版本下載頁 / Releases:** https://github.com/daniel92414/carrier-command-playtest/releases
 
-目前可下載版本為 **0.9.1.M**。詳見 [Release](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.1.M)。
+目前可下載版本為 **0.9.2.A.1**。詳見 [Release](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.2.A.1)。
 
-Current downloadable version: **0.9.1.M**. See the release for details.
+Current downloadable version: **0.9.2.A.1**. See the release for details.
 
 ## Android 安裝 / Installation
 
@@ -22,9 +22,9 @@ Current downloadable version: **0.9.1.M**. See the release for details.
 
 網頁版可供 iPhone／iPad 試玩；APK 僅適用 Android。 / iPhone and iPad users can use the browser version; APK files are Android-only.
 
-## 最新更新 / Latest changes — 0.9.2.A
+## 最新更新 / Latest changes — 0.9.2.A.1
 
-[完整更新說明 / Release notes](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.2.A)
+[完整更新說明 / Release notes](https://github.com/daniel92414/carrier-command-playtest/releases/tag/v0.9.2.A.1)
 
 積分與賽季尚未開放。 / Ranked matches and seasons are not available yet.
 
