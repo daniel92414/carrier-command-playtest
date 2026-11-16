@@ -6,7 +6,7 @@ Manage carrier deck operations: launch, recover, refuel, rearm and repair your a
 
 ## 試玩 / Play
 
-- **網頁版 / Browser — 0.9.1.M:** https://carrier-command-deck-ops.aptdill8.chatgpt.site/
+- **網頁版 / Browser — 0.9.2.A.1:** https://carrier-command-deck-ops.boostertc16.chatgpt.site/
 - **Android APK:** [0.9.2.A.1 下載 / Download](https://github.com/daniel92414/carrier-command-playtest/releases/download/v0.9.2.A.1/Deck_Command_0_9_2_A_1.apk)
 - **版本下載頁 / Releases:** https://github.com/daniel92414/carrier-command-playtest/releases
 
